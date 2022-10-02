@@ -1,0 +1,10 @@
+.flex{
+    
+        display: flex;
+        gap: 1px;
+    
+}
+.content{
+        margin-left: 0;
+        width: 70%;
+}

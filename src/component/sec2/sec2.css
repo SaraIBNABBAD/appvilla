@@ -1,0 +1,23 @@
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.btn{
+    background-color:#FF6B81;
+    color: white;
+    outline: none;
+    margin: auto;
+}
+.img{
+    width: 300px;
+    margin: auto;
+}
+.texte{
+    width: 40%;
+    margin: auto;
+}
+.content{
+ padding: 50px;   
+ margin: 10px auto;
+}

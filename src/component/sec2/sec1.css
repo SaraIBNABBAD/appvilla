@@ -1,0 +1,21 @@
+.fleex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 100px;
+}
+.contnt{
+    padding: 50px;   
+    margin: 10px auto;
+    background-color: #FF6B81;
+    color: white;
+}
+.btne{
+    background-color:white;
+    color: #FF6B81;
+    outline: none;
+    margin: auto;
+    border-radius: 5px;
+    border-color: transparent;
+    margin: 10px;
+}
