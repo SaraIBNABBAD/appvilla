@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/appvilla/static/css/main.dadd275e.css",
+    "main.js": "/appvilla/static/js/main.65b1c1c5.js",
+    "static/media/phone.png": "/appvilla/static/media/phone.ffd52d29fb96c67334ba.png",
+    "static/media/team3.jpg": "/appvilla/static/media/team3.724ff5f81f15127759f9.jpg",
+    "static/media/team2.jpg": "/appvilla/static/media/team2.3afcbfe5c5c27625eb45.jpg",
+    "static/media/blog-1.jpg": "/appvilla/static/media/blog-1.99fafa7de260d95358e1.jpg",
+    "static/media/blog-2.jpg": "/appvilla/static/media/blog-2.bd7e60e6dcbbda855d1d.jpg",
+    "static/media/app-ss1.png": "/appvilla/static/media/app-ss1.48d557719b54221ff1ee.png",
+    "static/media/team1.jpg": "/appvilla/static/media/team1.18767c1460635e1058bf.jpg",
+    "static/media/app-ss2.png": "/appvilla/static/media/app-ss2.44913725a39cc9d39df4.png",
+    "static/media/blog-3.jpg": "/appvilla/static/media/blog-3.697e31d045cfb5dc7937.jpg",
+    "static/media/logo.svg": "/appvilla/static/media/logo.473cd5d10bd2d94d24ebda1f98d97501.svg",
+    "index.html": "/appvilla/index.html",
+    "main.dadd275e.css.map": "/appvilla/static/css/main.dadd275e.css.map",
+    "main.65b1c1c5.js.map": "/appvilla/static/js/main.65b1c1c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dadd275e.css",
+    "static/js/main.65b1c1c5.js"
+  ]
+}
